@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"1Lara","characterIndex":0,"characterName":"1Lara","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"1Lara","traits":[],"initialLevel":1,"maxLevel":1,"name":"Lara","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"2Jorge","characterIndex":0,"characterName":"2Jorge","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"2Jorge","traits":[],"initialLevel":1,"maxLevel":1,"name":"Jorge","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"3Saul","characterIndex":0,"characterName":"3Saul","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"3Saul","traits":[],"initialLevel":1,"maxLevel":1,"name":"Saúl","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"4Gael","characterIndex":0,"characterName":"4Gael","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"4Gael","traits":[],"initialLevel":1,"maxLevel":1,"name":"Gael","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"5Alonso","characterIndex":0,"characterName":"5Azahara","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"5Azahara","traits":[],"initialLevel":1,"maxLevel":1,"name":"Azahara","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"6Adrian","characterIndex":0,"characterName":"6Ero","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"6Ero","traits":[],"initialLevel":1,"maxLevel":1,"name":"Ero","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"7Anxo","characterIndex":0,"characterName":"7Manuel","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"7Manuel","traits":[],"initialLevel":1,"maxLevel":1,"name":"Manuel","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"8Ari","characterIndex":0,"characterName":"8Manu","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"8Manu","traits":[],"initialLevel":1,"maxLevel":1,"name":"Manu","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"9Iago","characterIndex":0,"characterName":"9Sergio","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"9Sergio","traits":[],"initialLevel":1,"maxLevel":1,"name":"Sergio","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"Profe","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Profe","nickname":"","note":"","profile":""}
+]
